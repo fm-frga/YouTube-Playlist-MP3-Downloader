@@ -1,3 +1,6 @@
+# Project no longer works, everything moved to a newly improved version of this.  [https://github.com/fm-frga/AudioDownloader](https://github.com/fm-frga/AudioDownloader)
+
+
 # YouTube Playlist MP3 Downloader
 
 YouTube Playlist MP3 Downloader is a Python script that allows you to download an entire YouTube playlist and convert the videos into MP3 format. The application uses the [yt-dlp](https://github.com/yt-dlp/yt-dlp) library for downloading and converting the videos and the Kivy framework for creating a simple graphical user interface (GUI).
